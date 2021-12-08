@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="countries_open_file_picker">Öffne FilePicker</string>
+    <string name="browser_view_url">URL Ansehen</string>
+    <string name="app_name">Meine App</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_password">Passwort</string>
+    <string name="countries_finish">Finisch</string>
+    <string name="countries_open_url">Offne URL</string>
+    <string name="success_message">Erfolg</string>
+    <string name="file_picker_open">Öffne</string>
+
+</resources>

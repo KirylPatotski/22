@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Мое Приложение</string>
+    <string name="auth_login">Логин</string>
+    <string name="auth_password">Пароль</string>
+
+    <string name="countries_finish">Финиш</string>
+    <string name="countries_open_url">Открыть ссылку</string>
+    <string name="countries_open_file_picker">Открыть FilePicker</string>
+
+    <string name="success_message">Успех</string>
+
+    <string name="browser_view_url">Посмотреть URL</string>
+
+    <string name="file_picker_open">Открыть</string>
+</resources>

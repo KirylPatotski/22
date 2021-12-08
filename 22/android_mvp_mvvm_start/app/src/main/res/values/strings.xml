@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_password">Password</string>
+
+    <string name="countries_finish">Finish</string>
+    <string name="countries_open_url">Open URL</string>
+    <string name="countries_open_file_picker">Open FilePicker</string>
+
+    <string name="success_message">Success</string>
+
+    <string name="browser_view_url">View URL</string>
+
+    <string name="file_picker_open">Open</string>
+</resources>
